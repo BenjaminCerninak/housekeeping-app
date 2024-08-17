@@ -46,7 +46,7 @@ function App() {
       <div class="text-center">
         <Button variant="success">Ahoj</Button>
       </div>
-      <h1>Ahoj Ahoj</h1>
+      <h1>Ahoj test Ahoj</h1>
     </>
   );
 }
