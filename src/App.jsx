@@ -44,9 +44,9 @@ function App() {
       <p>Click on the Vite and React logos to learn more</p>
       <DefaultExample />
       <div class="text-center">
-        <Button variant="success">Ahoj</Button>
+        <Button variant="success">Ahojky</Button>
       </div>
-      <h1>Ahoj test test Ahoj</h1>
+      <h1>Ahoj test testing in progress Ahoj</h1>
     </>
   );
 }
