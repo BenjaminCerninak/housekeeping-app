@@ -1,9 +1,6 @@
-
-
 import Button from "react-bootstrap/Button";
 import "bootstrap/dist/css/bootstrap.min.css";
-
-
+import HousekeepingCard from "./housekeepingCard";
 
 function App() {
   return (
@@ -16,7 +13,5 @@ function App() {
     </>
   );
 }
-
-
 
 export default App;
