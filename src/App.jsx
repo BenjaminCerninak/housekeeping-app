@@ -7,6 +7,7 @@ function App() {
     <>
       <p>Click on the Vite and React logos to learn more</p>
       <div class="text-center">
+        <HousekeepingCard />
         <Button variant="success">Ahojky</Button>
       </div>
       <p>Testing</p>
